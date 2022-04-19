@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+# 全国各地最新最低工资标准(2022-04-08)
 
-You can use the [editor on GitHub](https://github.com/Ella-C/NewBasicSalaryChina/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+-   数据来源：[人社部公告](http://www.mohrss.gov.cn/SYrlzyhshbzb/laodongguanxi_/fwyd/202204/t20220408_442833.html)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+    <img src="ihttps://github.com/Ella-C/NewBasicSalaryChina/blob/350758ab4115962476376d50c01d7c4cf3a291c4/images/Screen%20Shot%202022-04-19%20at%201.36.48%20PM.png" width="480"/>
 
-### Markdown
+-   [数据获取和清洗脚本](https://github.com/Ella-C/NewBasicSalaryChina/blob/4a6eefbddc7d1b5b74b481798d5ec8dfa8c228d2/HTML_To_CSV.R)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+-   数据展示：比如
 
-```markdown
-Syntax highlighted code block
+    ![](https://github.com/Ella-C/NewBasicSalaryChina/blob/350758ab4115962476376d50c01d7c4cf3a291c4/PNG/%E5%B9%BF%E4%B8%9C%E6%9C%80%E4%BD%8E%E5%B7%A5%E8%B5%84%E6%A0%87%E5%87%86.png)
 
-# Header 1
-## Header 2
-### Header 3
+-   [数据查询看板链接](https://datastudio.google.com/s/tlToWNkkmIU)
 
-- Bulleted
-- List
+    <img src="https://github.com/Ella-C/NewBasicSalaryChina/blob/350758ab4115962476376d50c01d7c4cf3a291c4/images/Screen%20Shot%202022-04-19%20at%202.55.06%20PM.png" width="480"/>
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Ella-C/NewBasicSalaryChina/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+-   [如何查询演示](https://www.bilibili.com/video/BV1o541127bo?share_source=copy_web)
