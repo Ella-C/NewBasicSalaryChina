@@ -8,6 +8,10 @@
 
 -   数据展示：比如
 
-![](PNG/%E5%B9%BF%E4%B8%9C%E6%9C%80%E4%BD%8E%E5%B7%A5%E8%B5%84%E6%A0%87%E5%87%86.png)
+    ![](PNG/%E5%B9%BF%E4%B8%9C%E6%9C%80%E4%BD%8E%E5%B7%A5%E8%B5%84%E6%A0%87%E5%87%86.png)
 
--   [数据查询看板]()
+-   [数据查询看板链接](https://datastudio.google.com/s/tlToWNkkmIU)
+
+    <img src="images/Screen Shot 2022-04-19 at 2.55.06 PM.png" width="480"/>
+
+-   [如何查询演示](https://www.bilibili.com/video/BV1o541127bo?share_source=copy_web)
