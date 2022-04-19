@@ -4,7 +4,7 @@
 
     <img src="images/Screen Shot 2022-04-19 at 1.36.48 PM.png" width="480"/>
 
--   [数据获取和清洗脚本]('HTML_To_CSV.R')
+-   [数据获取和清洗脚本](https://github.com/Ella-C/NewBasicSalaryChina/blob/4a6eefbddc7d1b5b74b481798d5ec8dfa8c228d2/HTML_To_CSV.R)
 
 -   数据展示：比如
 
