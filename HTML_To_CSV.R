@@ -22,6 +22,7 @@ df1<- df1 %>% mutate_at(2:9,as.numeric)
 df1 %>% glimpse
 
 write_csv(df1,file='全国各地最新最低工资标准（2022-04-08）.csv')
+write_excel_csv(df1,file='全国各地最新最低工资标准（2022-04-08）.xls')
 
 
 for (i in 1:dim(df1)[1]){
